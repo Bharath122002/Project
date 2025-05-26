@@ -13,6 +13,7 @@ public class freq
             System.out.println((char)i+"------"+freq[i]);
             }
         }
+        System.out.println("teja");
 
     }
 }
